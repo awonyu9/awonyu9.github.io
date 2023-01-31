@@ -5,6 +5,6 @@ Live at <a href="https://awonyu9.github.io" alt="Link to portfolio website" targ
 Pages:
 - Portfolio `/#portfolio.html`
   - With links to each project description page and GitHub repo (if applicable)
-- Resume `/resume.html`
+- Resume `/#resume.html`
 - About `/#about.html`
 - Photo Gallery `/#gallery.html`
