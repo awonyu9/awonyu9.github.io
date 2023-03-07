@@ -90,6 +90,8 @@ h6 {
   font-size: 24px;
   margin-top: 20px;
   color: rgba(255, 255, 255, 0.9);
+  line-height: 50px;
+  width: 75%;
 }
 
 #header h2 span {
@@ -133,7 +135,8 @@ h6 {
 
   #header h2 {
     font-size: 20px;
-    line-height: 30px;
+    line-height: 40px;
+    width: 90%;
   }
 
   #header .social-links {
